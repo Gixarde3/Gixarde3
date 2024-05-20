@@ -1,5 +1,41 @@
-- 👋 Hi, I’m @Gixarde3
-- 👀 I’m interested in  all web development
-- 🌱 I’m currently learning php and all web service
+# Gixarde3
 
-If you're here, why you dont take a look of my best project? His name is live up, and i'm still working on it.
+## Español
+Soy un estudiante de ingeniería en tecnologías de la información dedicado, amante de la tecnología y el desarrollo web. Poseo conocimientos comprobables en programación orientada a objetos y desarrollo web front-end y back-end con tecnologías web como **HTML5**, **Laravel** y **React**.
+
+## Proyectos Destacados
+
+### MotivAI (grades-care)
+- **Estado**: En desarrollo
+- **Descripción**: Proyecto desarrollado con **React.js**, **Pyhton** y **Express.js** con la API de **Gemini**. El objetivo es ayudar a todos a aprender de manera persoalizada, hacer un seguimiento y dar premios por el esfuerzo
+- **Prúebalo**: https://grades-care-frontend.vercel.app
+
+### Universidad Monte Albán - Frontend
+- **Estado**: Finalizado
+- **Descripción**: Proyecto realizado con **React.js**, sirve como panel de administrador para la universidad
+
+### Calculadora de derivadas
+- **Estado**: Finalizado
+- **Descripción**: Usando árboles binarios, genera un mapa de la función, analiza la estructura y genera la derivada. Hecho con **Java**
+
+¡Siéntete libre de explorar mis repositorios y contribuir si te interesa! 😊🚀
+
+## English
+I am an **IT engineering student** dedicated to technology and web development. I have demonstrable knowledge in **object-oriented programming** and experience in both **front-end** and **back-end** web development using technologies such as **HTML5**, **Laravel**, and **React**.
+
+## Featured Projects
+
+### MotivAI (grades-care)
+- **Status**: In progress
+- **Description**: This project is developed with **React.js**, **Python**, and **Express.js**, utilizing the **Gemini** API. Its goal is to help individuals learn in a personalized way, track their progress, and provide rewards for their efforts.
+- **Try it out**: [MotivAI](https://grades-care-frontend.vercel.app)
+
+### Universidad Monte Albán - Frontend
+- **Status**: Completed
+- **Description**: This project, built with **React.js**, serves as an administrative panel for the university.
+
+### Derivative Calculator
+- **Status**: Completed
+- **Description**: Using binary trees, this calculator generates a function map, analyzes its structure, and computes the derivative. It is developed in **Java**.
+
+Feel free to explore my repositories and contribute if you're interested! 😊🚀
