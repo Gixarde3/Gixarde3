@@ -8,7 +8,7 @@ Soy un estudiante de ingeniería en tecnologías de la información dedicado, am
 ### MotivAI (grades-care)
 - **Estado**: En desarrollo
 - **Descripción**: Proyecto desarrollado con **React.js**, **Pyhton** y **Express.js** con la API de **Gemini**. El objetivo es ayudar a todos a aprender de manera persoalizada, hacer un seguimiento y dar premios por el esfuerzo
-- **Prúebalo**: [MotivAI]https://grades-care-frontend.vercel.app
+- **Prúebalo**: [MotivAI](https://grades-care-frontend.vercel.app)
 
 ### Universidad Monte Albán - Frontend
 - **Estado**: Finalizado
