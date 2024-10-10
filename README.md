@@ -34,7 +34,7 @@ I am an **IT engineering student** dedicated to technology and web development. 
 ### Universidad Monte Albán - Frontend
 - **Status**: Completed
 - **Description**: This project, built with **React.js**, serves as an administrative panel for the university.
-- - **Pruébalo**: [Universidad Monte Albán](https://umontealban.edu.mx)
+- **Try It Out**: [Universidad Monte Albán](https://umontealban.edu.mx)
 
 
 ### Derivative Calculator
