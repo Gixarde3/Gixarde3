@@ -1,7 +1,7 @@
 # Gixarde3
 
 ## Español
-Soy un estudiante de ingeniería en tecnologías de la información dedicado, amante de la tecnología y el desarrollo web. Poseo conocimientos comprobables en programación orientada a objetos y desarrollo web front-end y back-end con tecnologías web como **HTML5**, **Laravel** y **React**.
+Ingeniero en tecnologías de la información dedicado, amante de la tecnología y el desarrollo web. Poseo conocimientos comprobables en programación orientada a objetos y desarrollo web front-end y back-end con tecnologías web como **HTML5**, **Laravel** y **React**.
 
 ## Proyectos Destacados
 
@@ -22,7 +22,7 @@ Soy un estudiante de ingeniería en tecnologías de la información dedicado, am
 ¡Siéntete libre de explorar mis repositorios y contribuir si te interesa! 😊🚀
 
 ## English
-I am an **IT engineering student** dedicated to technology and web development. I have demonstrable knowledge in **object-oriented programming** and experience in both **front-end** and **back-end** web development using technologies such as **HTML5**, **Laravel**, and **React**.
+I am an **IT engineer** dedicated to technology and web development. I have demonstrable knowledge in **object-oriented programming** and experience in both **front-end** and **back-end** web development using technologies such as **HTML5**, **Laravel**, and **React**.
 
 ## Featured Projects
 
