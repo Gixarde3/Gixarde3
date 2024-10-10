@@ -12,7 +12,8 @@ Soy un estudiante de ingeniería en tecnologías de la información dedicado, am
 
 ### Universidad Monte Albán - Frontend
 - **Estado**: Finalizado
-- **Descripción**: Proyecto realizado con **React.js**, sirve como panel de administrador para la universidad
+- **Descripción**: Proyecto realizado con **React.js**, sirve como panel de administrador para la universidad}
+- **Pruébalo**: [Universidad Monte Albán](https://umontealban.edu.mx)
 
 ### Calculadora de derivadas
 - **Estado**: Finalizado
